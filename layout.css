@@ -699,7 +699,6 @@ footer ul li:first-child {
     footer{
         grid-template-columns: 1fr 1fr;
         grid-template-rows: 1fr 1fr;
-        padding: 2em;
     }
 
 
