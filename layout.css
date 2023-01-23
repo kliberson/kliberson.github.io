@@ -396,6 +396,7 @@ nav #navbar {
     
 }
 
+
 .question {
     border: 0 solid white;
     border-radius: 15px;
@@ -415,7 +416,7 @@ nav #navbar {
     display: flex;
     justify-content: left;
     align-items: center;
-    font-size: 20px ;
+    font-size: 20px;
     border: 1px solid #d2d2d2;
     border-radius: 5px;
     box-shadow: 0 1px 12px rgba(0, 0, 0, 0.25);
@@ -630,8 +631,12 @@ footer ul li:first-child {
     }
 
     .faq h1{
-        white-space: nowrap;
         text-align: center;
+    }
+
+    .q-header {
+        font-size: 18px;
+        padding: 0;
     }
     .signup-section {
         width: 100%;
