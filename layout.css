@@ -72,10 +72,6 @@ nav #navbar {
     padding: 15px;
 }
 
-#menu-toggle {
-    opacity: 0;
-}
-
 #menu-toggle:checked + .menu-btn > span {
     transform: rotate(45deg);
 }
