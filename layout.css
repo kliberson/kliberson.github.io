@@ -655,6 +655,7 @@ footer ul li:first-child {
 
     #background .content{
         text-align: center;
+        padding: 0;
     }
     #background .lorem{
         text-align: center;
